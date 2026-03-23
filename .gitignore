@@ -1,0 +1,30 @@
+# Ruby / Rails
+conquest-api/.env
+conquest-api/tmp/
+conquest-api/log/
+conquest-api/storage/
+conquest-api/public/packs/
+conquest-api/node_modules/
+conquest-api/.bundle/
+conquest-api/vendor/bundle/
+conquest-api/coverage/
+
+# Node / Vite
+conquest-client/.env
+conquest-client/node_modules/
+conquest-client/dist/
+conquest-client/.vite/
+
+# Python / FastAPI
+conquest-analytics/.env
+conquest-analytics/__pycache__/
+conquest-analytics/*.pyc
+conquest-analytics/.venv/
+conquest-analytics/venv/
+
+# OS / Editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
