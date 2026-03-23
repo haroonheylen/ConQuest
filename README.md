@@ -42,21 +42,24 @@ The project was built to demonstrate full-stack ownership across a real-world do
 
 ## Tech Stack
 
-|Layer           |Technology                   |
-|----------------|-----------------------------|
-|Frontend        |React 18 + Vite + TailwindCSS|
-|Routing         |React Router v6              |
-|Server State    |TanStack Query v5            |
-|HTTP Client     |Axios                        |
-|Forms           |react-hook-form + Zod        |
-|Backend         |Ruby on Rails 7.1 (API mode) |
-|Authentication  |Devise + devise-jwt          |
-|Authorization   |Pundit                       |
-|Serialization   |Blueprinter                  |
-|Pagination      |Kaminari                     |
-|Database        |PostgreSQL 16                |
-|Frontend Hosting|Vercel                       |
-|Backend Hosting |Render                       |
+| Layer | Technology |
+|---|---|
+| Frontend | React 18 + Vite + TailwindCSS |
+| Routing | React Router v6 |
+| Server State | TanStack Query v5 |
+| HTTP Client | Axios |
+| Forms | react-hook-form + Zod |
+| Backend | Ruby on Rails 7.1 (API mode) |
+| Authentication | Devise + devise-jwt |
+| Authorization | Pundit |
+| Serialization | Blueprinter |
+| Pagination | Kaminari |
+| Analytics Service | FastAPI (Python) |
+| Database Driver (Python) | psycopg2-binary |
+| Database | PostgreSQL 16 |
+| Frontend Hosting | Vercel |
+| Backend Hosting | Render |
+| Analytics Hosting | Render |
 
 -----
 
