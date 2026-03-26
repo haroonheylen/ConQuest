@@ -187,4 +187,4 @@ rails db:seed
 
 ## License
 
-[MIT](./LICENSE) © Your Name
+[MIT](./LICENSE) © Haroon Heylen
